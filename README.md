@@ -38,5 +38,5 @@ Siéntete libre de contribuir al repositorio mediante solicitudes de extracción
 
 Esperamos que estos recursos te sean útiles en el estudio de los Métodos Numéricos! 
 
-                                                                                           ![Metodos Numericos](/LogoFCEIA.jpeg)
+  ![Metodos Numericos](/LogoFCEIA.jpeg)
 
