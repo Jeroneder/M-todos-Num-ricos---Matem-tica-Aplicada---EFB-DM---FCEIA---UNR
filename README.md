@@ -31,6 +31,8 @@ En esta sección, se abordan algoritmos para resolver ecuaciones diferenciales o
 
 Puedes utilizar estos archivos como referencia o como base para tus propios proyectos. Asegúrate de entender los algoritmos y sus parámetros antes de aplicarlos a problemas específicos.
 
+![Metodos Numericos](LogoFCEIA.jpg)
+
 ## Contribuciones
 
 Siéntete libre de contribuir al repositorio mediante solicitudes de extracción (pull requests). Si encuentras algún error o tienes sugerencias de mejora, no dudes en abrir un problema (issue).
