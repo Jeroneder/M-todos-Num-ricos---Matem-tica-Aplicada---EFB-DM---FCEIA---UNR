@@ -6,23 +6,23 @@ Este repositorio contiene archivos en formato `.py` (Python) que corresponden a 
 
 El repositorio está organizado en cinco secciones principales, cada una abordando diferentes aspectos y técnicas dentro de la unidad de Métodos Numéricos.
 
-### 1. Introducción a Python
+### Sección 1. Introducción a Python
 
 En esta sección encontrarás un apunte introducción a Python en formato PDF como en `.pynb`.
 
-### 2. Errores en los Métodos Numéricos 
+### Sección 2. Errores en los Métodos Numéricos 
 
 Aquí se encuentran códigos relacionados con los errores en los Métodos Numéricos.
 
-### 3. Resolución de Sistemas de Ecuaciones Lineales
+### Sección 3. Resolución de Sistemas de Ecuaciones Lineales
 
 Esta sección incluye archivos relacionados con la resolución de sistemas de ecuaciones lineales mediante métodos como la eliminación gaussiana y el método de Jacobi.
 
-### 4. Raíces y Sistemas de Ecuaciones No Lineales
+### Sección 4. Raíces y Sistemas de Ecuaciones No Lineales
 
 En esta sección, encontrarás implementaciones de algoritmos para encontrar las raíces de ecuaciones, tales como el método de Newton-Raphson y el método de Punto Fijo.
 
-### 5. Solución numérica de Ecuaciones Diferenciales Ordinarias
+### Sección 5. Solución numérica de Ecuaciones Diferenciales Ordinarias
 
 En esta sección, se abordan algoritmos para resolver ecuaciones diferenciales ordinarias, incluyendo el método de Euler y el método de Runge-Kutta.
 
